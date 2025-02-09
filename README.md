@@ -143,8 +143,6 @@ Model will be available at: **http://127.0.0.1:5000/predict**
 🔗 [LinkedIn](https://linkedin.com/in/nava-bhargav-gedda-4a4a30151) | 🌐 [GitHub](https://github.com/Navabhargav)  
 
 
----
 
 ## ⭐ **Like this Project?**
 If you found this project useful, **give it a star ⭐** on GitHub and share it with others! 🚀  
-```
