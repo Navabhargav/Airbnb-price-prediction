@@ -65,39 +65,6 @@ We experimented with **multiple regression models**, and **XGBoost** outperforme
 
 📌 **Best Model**: **XGBoost** achieved **78% R²** and **0.31 RMSE**, making it the most accurate for **dynamic Airbnb pricing**.
 
----
-
-## 💻 **Installation & Usage**  
-### **1️⃣ Clone the Repository**  
-```sh
-git clone https://github.com/Navabhargav/Airbnb-price-prediction.git
-cd Airbnb-price-prediction
-```  
-
-### **2️⃣ Install Required Dependencies**  
-```sh
-pip install -r requirements.txt
-```  
-
-### **3️⃣ Run Jupyter Notebook**  
-```sh
-jupyter notebook
-```
-Open `BUSM131_masterclass.ipynb` and execute the cells step by step.
-
-### **4️⃣ Run the Model Training Script**  
-```sh
-python src/model_training.py
-```
-
-### **5️⃣ Deploy Model as API (Flask Server)**  
-```sh
-python app.py
-```
-Model will be available at: **http://127.0.0.1:5000/predict**
-
----
-
 ## 📈 **Key Insights & Findings**
 ✔ **Airbnb prices vary significantly based on boroughs** – **Manhattan listings** have the highest average prices.  
 ✔ **Travel time** to key attractions like **Times Square** and **JFK Airport** **impacts listing prices**.  
