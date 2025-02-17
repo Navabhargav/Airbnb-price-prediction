@@ -8,6 +8,7 @@
 This project leverages **machine learning and data science techniques** to predict **Airbnb listing prices** in **New York City (NYC)**. The goal is to provide **data-driven pricing strategies** that help **Airbnb hosts optimize revenue** by dynamically adjusting prices based on **demand, seasonality, amenities, and location**.  
 
 💡 **Key Objectives:**  
+
 ✔ Identify **key factors influencing Airbnb prices**  
 ✔ Develop a **robust machine learning pipeline** for price prediction  
 ✔ Apply **feature engineering** to enhance model accuracy  
